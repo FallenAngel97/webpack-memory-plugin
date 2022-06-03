@@ -1,5 +1,5 @@
 {
-  "name": "webpack-memory-plugin",
+  "name": "@decodeapps/webpack-memory-plugin",
   "version": "1.0.0",
   "description": "",
   "main": "WebpackMemoryPlugin.js",
