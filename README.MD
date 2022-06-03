@@ -15,7 +15,7 @@ In case of yarn:
 Add following to the `webpack.config.js`:
 
 ```javascript
-const WebpackMemoryPlugin = require('./WebpackMemoryPlugin');
+const WebpackMemoryPlugin = require('@decodeapps/webpack-memory-plugin');
 // other plugins
 
 module.exports = {
