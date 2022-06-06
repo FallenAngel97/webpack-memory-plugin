@@ -1,12 +1,17 @@
 {
   "name": "@decodeapps/webpack-memory-plugin",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Webpack plugin, which showws the amount of RAM used after compilation",
+  "homepage": "https://github.com/FallenAngel97/webpack-memory-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FallenAngel97/webpack-memory-plugin"
+  },
   "main": "WebpackMemoryPlugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["memory", "ram", "webpack", "utilization", "megabytes"],
   "author": "Oleksii Demennikov (DeCODE)",
   "license": "ISC"
 }
