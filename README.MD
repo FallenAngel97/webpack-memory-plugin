@@ -2,6 +2,7 @@
 ### 🐏 Webpack Memory Plugin
 
 Displays amount of RAM used after the webpack compilation
+![Screenshot of Plugin](ram-used.png)
 
 ## Installation
 
